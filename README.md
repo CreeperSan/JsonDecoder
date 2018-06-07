@@ -13,7 +13,7 @@ The core code is written by [json.cn](https://www.json.cn/), I just collect the 
 
 ### Before running
 
-please install jre first.   :)
+require java10 environment and javafx support    :)
 
 ### Preview
 ![JsonDecoder](./preview/preview1.png)
